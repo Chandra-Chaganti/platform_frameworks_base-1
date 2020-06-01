@@ -43,4 +43,7 @@
     <!-- Max visible status icons -->
     <integer name="config_maxVisibleStatusIcons">7</integer>
 
+    <!-- Whether to dim the FOD icon -->
+    <bool name="config_fodIconDim">false</bool>
+
  </resources>
